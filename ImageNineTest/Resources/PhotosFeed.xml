@@ -1,0 +1,815 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:exif='http://schemas.google.com/photos/exif/2007' xmlns:gphoto='http://schemas.google.com/photos/2007' xmlns:media='http://search.yahoo.com/mrss/' xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/' xmlns:gml='http://www.opengis.net/gml' xmlns:georss='http://www.georss.org/georss'>
+  <id>https://picasaweb.google.com/data/feed/api/user/robertov82/albumid/5490824849223202081</id>
+  <updated>2010-07-07T11:55:37.269Z</updated>
+  <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/photos/2007#album'/>
+  <title type='text'>Pictures</title>
+  <subtitle type='text'/>
+  <rights type='text'>public</rights>
+  <icon>https://lh4.googleusercontent.com/_nihWo5dxPFw/TDNUG9XWNSE/AAAAAAAAAHU/0tRaApTadJU/s160-c/Pictures.jpg</icon>
+  <link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://picasaweb.google.com/data/feed/api/user/robertov82/albumid/5490824849223202081'/>
+  <link rel='alternate' type='text/html' href='http://picasaweb.google.com/robertov82/Pictures'/>
+  <link rel='http://schemas.google.com/photos/2007#slideshow' type='application/x-shockwave-flash' href='http://picasaweb.google.com/s/c/bin/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2Frobertov82%2Falbumid%2F5490824849223202081%3Falt%3Drss'/>
+  <link rel='http://schemas.google.com/photos/2007#report' type='text/html' href='http://picasaweb.google.com/lh/reportAbuse?uname=robertov82&amp;aid=5490824849223202081'/>
+  <link rel='self' type='application/atom+xml' href='https://picasaweb.google.com/data/feed/api/user/robertov82/albumid/5490824849223202081?start-index=1&amp;max-results=1000&amp;kind=photo'/>
+  <author>
+    <name>robertov82</name>
+    <uri>http://picasaweb.google.com/robertov82</uri>
+  </author>
+  <generator version='1.00' uri='http://picasaweb.google.com/'>Picasaweb</generator>
+  <openSearch:totalResults>17</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:id>5490824849223202081</gphoto:id>
+  <gphoto:name>Pictures</gphoto:name>
+  <gphoto:location/>
+  <gphoto:access>public</gphoto:access>
+  <gphoto:timestamp>1266828044000</gphoto:timestamp>
+  <gphoto:numphotos>17</gphoto:numphotos>
+  <gphoto:user>robertov82</gphoto:user>
+  <gphoto:nickname>robertov82</gphoto:nickname>
+  <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+  <gphoto:commentCount>0</gphoto:commentCount>
+  <gphoto:allowPrints>true</gphoto:allowPrints>
+  <gphoto:allowDownloads>true</gphoto:allowDownloads>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/robertov82/albumid/5490824849223202081/photoid/5490824855493602130</id>
+    <published>2010-07-06T16:04:45.000Z</published>
+    <updated>2010-07-07T11:53:19.218Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/photos/2007#photo'/>
+    <title type='text'>68350215.jpg</title>
+    <summary type='text'/>
+    <content type='image/jpeg' src='https://lh5.googleusercontent.com/_nihWo5dxPFw/TDNUHUuU61I/AAAAAAAAADk/rwL7_KG_uFY/68350215.jpg'/>
+    <link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://picasaweb.google.com/data/feed/api/user/robertov82/albumid/5490824849223202081/photoid/5490824855493602130'/>
+    <link rel='alternate' type='text/html' href='http://picasaweb.google.com/robertov82/Pictures#5490824855493602130'/>
+    <link rel='http://schemas.google.com/photos/2007#canonical' type='text/html' href='http://picasaweb.google.com/lh/photo/wSfykyyv2eBwBDa3Tgt2wA'/>
+    <link rel='self' type='application/atom+xml' href='https://picasaweb.google.com/data/entry/api/user/robertov82/albumid/5490824849223202081/photoid/5490824855493602130'/>
+    <link rel='http://schemas.google.com/photos/2007#report' type='text/html' href='http://picasaweb.google.com/lh/reportAbuse?uname=robertov82&amp;aid=5490824849223202081&amp;iid=5490824855493602130'/>
+    <gphoto:id>5490824855493602130</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>1.0</gphoto:position>
+    <gphoto:albumid>5490824849223202081</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>480</gphoto:width>
+    <gphoto:height>640</gphoto:height>
+    <gphoto:size>104093</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>5a87a032</gphoto:checksum>
+    <gphoto:timestamp>1266828044000</gphoto:timestamp>
+    <gphoto:imageVersion>57</gphoto:imageVersion>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id='0' name='Med ensamrätt' url=''>ALL_RIGHTS_RESERVED</gphoto:license>
+    <exif:tags>
+      <exif:imageUniqueID>c2736b16c6393f443a8bce3a7b40d9fa</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url='https://lh5.googleusercontent.com/_nihWo5dxPFw/TDNUHUuU61I/AAAAAAAAADk/rwL7_KG_uFY/68350215.jpg' height='640' width='480' type='image/jpeg' medium='image'/>
+      <media:credit>robertov82</media:credit>
+      <media:description type='plain'/>
+      <media:keywords/>
+      <media:thumbnail url='https://lh5.googleusercontent.com/_nihWo5dxPFw/TDNUHUuU61I/AAAAAAAAADk/rwL7_KG_uFY/s72/68350215.jpg' height='72' width='54'/>
+      <media:thumbnail url='https://lh5.googleusercontent.com/_nihWo5dxPFw/TDNUHUuU61I/AAAAAAAAADk/rwL7_KG_uFY/s144/68350215.jpg' height='144' width='108'/>
+      <media:thumbnail url='https://lh5.googleusercontent.com/_nihWo5dxPFw/TDNUHUuU61I/AAAAAAAAADk/rwL7_KG_uFY/s288/68350215.jpg' height='288' width='216'/>
+      <media:title type='plain'>68350215.jpg</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>59.334091 18.098145</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/robertov82/albumid/5490824849223202081/photoid/5491130435749333410</id>
+    <published>2010-07-07T11:50:33.000Z</published>
+    <updated>2010-07-07T11:53:20.785Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/photos/2007#photo'/>
+    <title type='text'>step1.jpg</title>
+    <summary type='text'/>
+    <content type='image/jpeg' src='https://lh6.googleusercontent.com/_nihWo5dxPFw/TDRqCb4syaI/AAAAAAAAAGU/Nh0IGbnb9s0/step1.jpg'/>
+    <link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://picasaweb.google.com/data/feed/api/user/robertov82/albumid/5490824849223202081/photoid/5491130435749333410'/>
+    <link rel='alternate' type='text/html' href='http://picasaweb.google.com/robertov82/Pictures#5491130435749333410'/>
+    <link rel='http://schemas.google.com/photos/2007#canonical' type='text/html' href='http://picasaweb.google.com/lh/photo/4YdMG9AccGRM_tblqxtYUQ'/>
+    <link rel='self' type='application/atom+xml' href='https://picasaweb.google.com/data/entry/api/user/robertov82/albumid/5490824849223202081/photoid/5491130435749333410'/>
+    <link rel='http://schemas.google.com/photos/2007#report' type='text/html' href='http://picasaweb.google.com/lh/reportAbuse?uname=robertov82&amp;aid=5490824849223202081&amp;iid=5491130435749333410'/>
+    <gphoto:id>5491130435749333410</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>2.0</gphoto:position>
+    <gphoto:albumid>5490824849223202081</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>425</gphoto:width>
+    <gphoto:height>356</gphoto:height>
+    <gphoto:size>42943</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>fe636045</gphoto:checksum>
+    <gphoto:timestamp>1277125162000</gphoto:timestamp>
+    <gphoto:imageVersion>101</gphoto:imageVersion>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id='0' name='Med ensamrätt' url=''>ALL_RIGHTS_RESERVED</gphoto:license>
+    <exif:tags>
+      <exif:imageUniqueID>11123cefad01140da0c41627c2f1788b</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url='https://lh6.googleusercontent.com/_nihWo5dxPFw/TDRqCb4syaI/AAAAAAAAAGU/Nh0IGbnb9s0/step1.jpg' height='356' width='425' type='image/jpeg' medium='image'/>
+      <media:credit>robertov82</media:credit>
+      <media:description type='plain'/>
+      <media:keywords/>
+      <media:thumbnail url='https://lh6.googleusercontent.com/_nihWo5dxPFw/TDRqCb4syaI/AAAAAAAAAGU/Nh0IGbnb9s0/s72/step1.jpg' height='61' width='72'/>
+      <media:thumbnail url='https://lh6.googleusercontent.com/_nihWo5dxPFw/TDRqCb4syaI/AAAAAAAAAGU/Nh0IGbnb9s0/s144/step1.jpg' height='121' width='144'/>
+      <media:thumbnail url='https://lh6.googleusercontent.com/_nihWo5dxPFw/TDRqCb4syaI/AAAAAAAAAGU/Nh0IGbnb9s0/s288/step1.jpg' height='242' width='288'/>
+      <media:title type='plain'>step1.jpg</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>59.334091 18.098145</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/robertov82/albumid/5490824849223202081/photoid/5491130437701836130</id>
+    <published>2010-07-07T11:50:34.000Z</published>
+    <updated>2010-07-07T11:53:21.317Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/photos/2007#photo'/>
+    <title type='text'>step2.JPG</title>
+    <summary type='text'/>
+    <content type='image/jpeg' src='https://lh4.googleusercontent.com/_nihWo5dxPFw/TDRqCjKNnWI/AAAAAAAAAGY/SEzroYljt2U/step2.JPG'/>
+    <link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://picasaweb.google.com/data/feed/api/user/robertov82/albumid/5490824849223202081/photoid/5491130437701836130'/>
+    <link rel='alternate' type='text/html' href='http://picasaweb.google.com/robertov82/Pictures#5491130437701836130'/>
+    <link rel='http://schemas.google.com/photos/2007#canonical' type='text/html' href='http://picasaweb.google.com/lh/photo/Qi3l_qcvnD4bNl1e6u9oGg'/>
+    <link rel='self' type='application/atom+xml' href='https://picasaweb.google.com/data/entry/api/user/robertov82/albumid/5490824849223202081/photoid/5491130437701836130'/>
+    <link rel='http://schemas.google.com/photos/2007#report' type='text/html' href='http://picasaweb.google.com/lh/reportAbuse?uname=robertov82&amp;aid=5490824849223202081&amp;iid=5491130437701836130'/>
+    <gphoto:id>5491130437701836130</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>3.0</gphoto:position>
+    <gphoto:albumid>5490824849223202081</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>753</gphoto:width>
+    <gphoto:height>530</gphoto:height>
+    <gphoto:size>72410</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>fe68a045</gphoto:checksum>
+    <gphoto:timestamp>1277125228000</gphoto:timestamp>
+    <gphoto:imageVersion>102</gphoto:imageVersion>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id='0' name='Med ensamrätt' url=''>ALL_RIGHTS_RESERVED</gphoto:license>
+    <exif:tags>
+      <exif:time>1277132428000</exif:time>
+      <exif:imageUniqueID>6877af048e8d662e6dcf3190e51f9abc</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url='https://lh4.googleusercontent.com/_nihWo5dxPFw/TDRqCjKNnWI/AAAAAAAAAGY/SEzroYljt2U/step2.JPG' height='530' width='753' type='image/jpeg' medium='image'/>
+      <media:credit>robertov82</media:credit>
+      <media:description type='plain'/>
+      <media:keywords/>
+      <media:thumbnail url='https://lh4.googleusercontent.com/_nihWo5dxPFw/TDRqCjKNnWI/AAAAAAAAAGY/SEzroYljt2U/s72/step2.JPG' height='51' width='72'/>
+      <media:thumbnail url='https://lh4.googleusercontent.com/_nihWo5dxPFw/TDRqCjKNnWI/AAAAAAAAAGY/SEzroYljt2U/s144/step2.JPG' height='102' width='144'/>
+      <media:thumbnail url='https://lh4.googleusercontent.com/_nihWo5dxPFw/TDRqCjKNnWI/AAAAAAAAAGY/SEzroYljt2U/s288/step2.JPG' height='203' width='288'/>
+      <media:title type='plain'>step2.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>59.334091 18.098145</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/robertov82/albumid/5490824849223202081/photoid/5491130441336877826</id>
+    <published>2010-07-07T11:50:35.000Z</published>
+    <updated>2010-07-07T11:50:35.741Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/photos/2007#photo'/>
+    <title type='text'>alb_44796_big.jpg</title>
+    <summary type='text'/>
+    <content type='image/jpeg' src='https://lh3.googleusercontent.com/_nihWo5dxPFw/TDRqCws38wI/AAAAAAAAAGc/Or_RAPmISEw/alb_44796_big.jpg'/>
+    <link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://picasaweb.google.com/data/feed/api/user/robertov82/albumid/5490824849223202081/photoid/5491130441336877826'/>
+    <link rel='alternate' type='text/html' href='http://picasaweb.google.com/robertov82/Pictures#5491130441336877826'/>
+    <link rel='http://schemas.google.com/photos/2007#canonical' type='text/html' href='http://picasaweb.google.com/lh/photo/zWQwiGxG9LtOha6TREws6g'/>
+    <link rel='self' type='application/atom+xml' href='https://picasaweb.google.com/data/entry/api/user/robertov82/albumid/5490824849223202081/photoid/5491130441336877826'/>
+    <link rel='http://schemas.google.com/photos/2007#report' type='text/html' href='http://picasaweb.google.com/lh/reportAbuse?uname=robertov82&amp;aid=5490824849223202081&amp;iid=5491130441336877826'/>
+    <gphoto:id>5491130441336877826</gphoto:id>
+    <gphoto:version>1</gphoto:version>
+    <gphoto:position>4.0</gphoto:position>
+    <gphoto:albumid>5490824849223202081</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>200</gphoto:width>
+    <gphoto:height>200</gphoto:height>
+    <gphoto:size>11496</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>28a12046</gphoto:checksum>
+    <gphoto:timestamp>1277211704000</gphoto:timestamp>
+    <gphoto:imageVersion>103</gphoto:imageVersion>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id='0' name='Med ensamrätt' url=''>ALL_RIGHTS_RESERVED</gphoto:license>
+    <exif:tags>
+      <exif:imageUniqueID>ef2e2f5caa25963e6d8d40601a265d71</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url='https://lh3.googleusercontent.com/_nihWo5dxPFw/TDRqCws38wI/AAAAAAAAAGc/Or_RAPmISEw/alb_44796_big.jpg' height='200' width='200' type='image/jpeg' medium='image'/>
+      <media:credit>robertov82</media:credit>
+      <media:description type='plain'/>
+      <media:keywords/>
+      <media:thumbnail url='https://lh3.googleusercontent.com/_nihWo5dxPFw/TDRqCws38wI/AAAAAAAAAGc/Or_RAPmISEw/s72/alb_44796_big.jpg' height='72' width='72'/>
+      <media:thumbnail url='https://lh3.googleusercontent.com/_nihWo5dxPFw/TDRqCws38wI/AAAAAAAAAGc/Or_RAPmISEw/s144/alb_44796_big.jpg' height='144' width='144'/>
+      <media:thumbnail url='https://lh3.googleusercontent.com/_nihWo5dxPFw/TDRqCws38wI/AAAAAAAAAGc/Or_RAPmISEw/s288/alb_44796_big.jpg' height='200' width='200'/>
+      <media:title type='plain'>alb_44796_big.jpg</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/robertov82/albumid/5490824849223202081/photoid/5491130445512336978</id>
+    <published>2010-07-07T11:50:36.000Z</published>
+    <updated>2010-07-07T11:53:21.837Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/photos/2007#photo'/>
+    <title type='text'>II.jpg</title>
+    <summary type='text'>Cover art</summary>
+    <content type='image/jpeg' src='https://lh5.googleusercontent.com/_nihWo5dxPFw/TDRqDAQYZlI/AAAAAAAAAGg/Wn5ZeMjFvB8/II.jpg'/>
+    <link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://picasaweb.google.com/data/feed/api/user/robertov82/albumid/5490824849223202081/photoid/5491130445512336978'/>
+    <link rel='alternate' type='text/html' href='http://picasaweb.google.com/robertov82/Pictures#5491130445512336978'/>
+    <link rel='http://schemas.google.com/photos/2007#canonical' type='text/html' href='http://picasaweb.google.com/lh/photo/PcKNEcc06ji1HPXmR5-JbQ'/>
+    <link rel='self' type='application/atom+xml' href='https://picasaweb.google.com/data/entry/api/user/robertov82/albumid/5490824849223202081/photoid/5491130445512336978'/>
+    <link rel='http://schemas.google.com/photos/2007#report' type='text/html' href='http://picasaweb.google.com/lh/reportAbuse?uname=robertov82&amp;aid=5490824849223202081&amp;iid=5491130445512336978'/>
+    <gphoto:id>5491130445512336978</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>5.0</gphoto:position>
+    <gphoto:albumid>5490824849223202081</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>300</gphoto:width>
+    <gphoto:height>300</gphoto:height>
+    <gphoto:size>10163</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>28afa046</gphoto:checksum>
+    <gphoto:timestamp>1277211724000</gphoto:timestamp>
+    <gphoto:imageVersion>104</gphoto:imageVersion>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id='0' name='Med ensamrätt' url=''>ALL_RIGHTS_RESERVED</gphoto:license>
+    <exif:tags>
+      <exif:imageUniqueID>fd5184797690ae4996e35d586e229fb9</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url='https://lh5.googleusercontent.com/_nihWo5dxPFw/TDRqDAQYZlI/AAAAAAAAAGg/Wn5ZeMjFvB8/II.jpg' height='300' width='300' type='image/jpeg' medium='image'/>
+      <media:credit>robertov82</media:credit>
+      <media:description type='plain'>Cover art</media:description>
+      <media:keywords/>
+      <media:thumbnail url='https://lh5.googleusercontent.com/_nihWo5dxPFw/TDRqDAQYZlI/AAAAAAAAAGg/Wn5ZeMjFvB8/s72/II.jpg' height='72' width='72'/>
+      <media:thumbnail url='https://lh5.googleusercontent.com/_nihWo5dxPFw/TDRqDAQYZlI/AAAAAAAAAGg/Wn5ZeMjFvB8/s144/II.jpg' height='144' width='144'/>
+      <media:thumbnail url='https://lh5.googleusercontent.com/_nihWo5dxPFw/TDRqDAQYZlI/AAAAAAAAAGg/Wn5ZeMjFvB8/s288/II.jpg' height='288' width='288'/>
+      <media:title type='plain'>II.jpg</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>59.334091 18.098145</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/robertov82/albumid/5490824849223202081/photoid/5491130457087061234</id>
+    <published>2010-07-07T11:50:38.000Z</published>
+    <updated>2010-07-07T11:53:22.471Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/photos/2007#photo'/>
+    <title type='text'>Capture.JPG</title>
+    <summary type='text'/>
+    <content type='image/jpeg' src='https://lh3.googleusercontent.com/_nihWo5dxPFw/TDRqDrYArPI/AAAAAAAAAGk/ff446usAdb4/Capture.JPG'/>
+    <link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://picasaweb.google.com/data/feed/api/user/robertov82/albumid/5490824849223202081/photoid/5491130457087061234'/>
+    <link rel='alternate' type='text/html' href='http://picasaweb.google.com/robertov82/Pictures#5491130457087061234'/>
+    <link rel='http://schemas.google.com/photos/2007#canonical' type='text/html' href='http://picasaweb.google.com/lh/photo/mySEZRWHUG_53rN7w8_UtA'/>
+    <link rel='self' type='application/atom+xml' href='https://picasaweb.google.com/data/entry/api/user/robertov82/albumid/5490824849223202081/photoid/5491130457087061234'/>
+    <link rel='http://schemas.google.com/photos/2007#report' type='text/html' href='http://picasaweb.google.com/lh/reportAbuse?uname=robertov82&amp;aid=5490824849223202081&amp;iid=5491130457087061234'/>
+    <gphoto:id>5491130457087061234</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>6.0</gphoto:position>
+    <gphoto:albumid>5490824849223202081</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>518</gphoto:width>
+    <gphoto:height>448</gphoto:height>
+    <gphoto:size>49080</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>4f958047</gphoto:checksum>
+    <gphoto:timestamp>1277815702000</gphoto:timestamp>
+    <gphoto:imageVersion>105</gphoto:imageVersion>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id='0' name='Med ensamrätt' url=''>ALL_RIGHTS_RESERVED</gphoto:license>
+    <exif:tags>
+      <exif:time>1277822902000</exif:time>
+      <exif:imageUniqueID>2e628f03e8c2686923f941f69fa32d17</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url='https://lh3.googleusercontent.com/_nihWo5dxPFw/TDRqDrYArPI/AAAAAAAAAGk/ff446usAdb4/Capture.JPG' height='448' width='518' type='image/jpeg' medium='image'/>
+      <media:credit>robertov82</media:credit>
+      <media:description type='plain'/>
+      <media:keywords/>
+      <media:thumbnail url='https://lh3.googleusercontent.com/_nihWo5dxPFw/TDRqDrYArPI/AAAAAAAAAGk/ff446usAdb4/s72/Capture.JPG' height='63' width='72'/>
+      <media:thumbnail url='https://lh3.googleusercontent.com/_nihWo5dxPFw/TDRqDrYArPI/AAAAAAAAAGk/ff446usAdb4/s144/Capture.JPG' height='125' width='144'/>
+      <media:thumbnail url='https://lh3.googleusercontent.com/_nihWo5dxPFw/TDRqDrYArPI/AAAAAAAAAGk/ff446usAdb4/s288/Capture.JPG' height='250' width='288'/>
+      <media:title type='plain'>Capture.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>59.334091 18.098145</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/robertov82/albumid/5490824849223202081/photoid/5491130469667033026</id>
+    <published>2010-07-07T11:50:41.000Z</published>
+    <updated>2010-07-07T11:53:24.437Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/photos/2007#photo'/>
+    <title type='text'>Tulips.jpg</title>
+    <summary type='text'/>
+    <content type='image/jpeg' src='https://lh5.googleusercontent.com/_nihWo5dxPFw/TDRqEaPTz8I/AAAAAAAAAGo/EN0HAEn2dOU/Tulips.jpg'/>
+    <link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://picasaweb.google.com/data/feed/api/user/robertov82/albumid/5490824849223202081/photoid/5491130469667033026'/>
+    <link rel='alternate' type='text/html' href='http://picasaweb.google.com/robertov82/Pictures#5491130469667033026'/>
+    <link rel='http://schemas.google.com/photos/2007#canonical' type='text/html' href='http://picasaweb.google.com/lh/photo/dSq5NzSW7wZX0WHL1x5W7A'/>
+    <link rel='self' type='application/atom+xml' href='https://picasaweb.google.com/data/entry/api/user/robertov82/albumid/5490824849223202081/photoid/5491130469667033026'/>
+    <link rel='http://schemas.google.com/photos/2007#report' type='text/html' href='http://picasaweb.google.com/lh/reportAbuse?uname=robertov82&amp;aid=5490824849223202081&amp;iid=5491130469667033026'/>
+    <gphoto:id>5491130469667033026</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>7.0</gphoto:position>
+    <gphoto:albumid>5490824849223202081</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1024</gphoto:width>
+    <gphoto:height>768</gphoto:height>
+    <gphoto:size>620888</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>9528000d</gphoto:checksum>
+    <gphoto:timestamp>1202376791000</gphoto:timestamp>
+    <gphoto:imageVersion>106</gphoto:imageVersion>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id='0' name='Med ensamrätt' url=''>ALL_RIGHTS_RESERVED</gphoto:license>
+    <exif:tags>
+      <exif:time>1202383991000</exif:time>
+      <exif:imageUniqueID>27a306ce404efff63bbe3caffe5efafa</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url='https://lh5.googleusercontent.com/_nihWo5dxPFw/TDRqEaPTz8I/AAAAAAAAAGo/EN0HAEn2dOU/Tulips.jpg' height='768' width='1024' type='image/jpeg' medium='image'/>
+      <media:credit>robertov82</media:credit>
+      <media:description type='plain'/>
+      <media:keywords/>
+      <media:thumbnail url='https://lh5.googleusercontent.com/_nihWo5dxPFw/TDRqEaPTz8I/AAAAAAAAAGo/EN0HAEn2dOU/s72/Tulips.jpg' height='54' width='72'/>
+      <media:thumbnail url='https://lh5.googleusercontent.com/_nihWo5dxPFw/TDRqEaPTz8I/AAAAAAAAAGo/EN0HAEn2dOU/s144/Tulips.jpg' height='108' width='144'/>
+      <media:thumbnail url='https://lh5.googleusercontent.com/_nihWo5dxPFw/TDRqEaPTz8I/AAAAAAAAAGo/EN0HAEn2dOU/s288/Tulips.jpg' height='216' width='288'/>
+      <media:title type='plain'>Tulips.jpg</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>59.334091 18.098145</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/robertov82/albumid/5490824849223202081/photoid/5491130484889906322</id>
+    <published>2010-07-07T11:50:45.000Z</published>
+    <updated>2010-07-07T11:53:25.720Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/photos/2007#photo'/>
+    <title type='text'>Jellyfish.jpg</title>
+    <summary type='text'/>
+    <content type='image/jpeg' src='https://lh4.googleusercontent.com/_nihWo5dxPFw/TDRqFS8ubJI/AAAAAAAAAGs/olmD9dIck8k/Jellyfish.jpg'/>
+    <link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://picasaweb.google.com/data/feed/api/user/robertov82/albumid/5490824849223202081/photoid/5491130484889906322'/>
+    <link rel='alternate' type='text/html' href='http://picasaweb.google.com/robertov82/Pictures#5491130484889906322'/>
+    <link rel='http://schemas.google.com/photos/2007#canonical' type='text/html' href='http://picasaweb.google.com/lh/photo/M1Gp_mkO84HLrdTCrCJqGQ'/>
+    <link rel='self' type='application/atom+xml' href='https://picasaweb.google.com/data/entry/api/user/robertov82/albumid/5490824849223202081/photoid/5491130484889906322'/>
+    <link rel='http://schemas.google.com/photos/2007#report' type='text/html' href='http://picasaweb.google.com/lh/reportAbuse?uname=robertov82&amp;aid=5490824849223202081&amp;iid=5491130484889906322'/>
+    <gphoto:id>5491130484889906322</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>8.0</gphoto:position>
+    <gphoto:albumid>5490824849223202081</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1024</gphoto:width>
+    <gphoto:height>768</gphoto:height>
+    <gphoto:size>775702</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>9528000d</gphoto:checksum>
+    <gphoto:timestamp>1202722344000</gphoto:timestamp>
+    <gphoto:imageVersion>107</gphoto:imageVersion>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id='0' name='Med ensamrätt' url=''>ALL_RIGHTS_RESERVED</gphoto:license>
+    <exif:tags>
+      <exif:time>1202729544000</exif:time>
+      <exif:imageUniqueID>019dd4fdc9c384c0c84ebe5bbac7445a</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url='https://lh4.googleusercontent.com/_nihWo5dxPFw/TDRqFS8ubJI/AAAAAAAAAGs/olmD9dIck8k/Jellyfish.jpg' height='768' width='1024' type='image/jpeg' medium='image'/>
+      <media:credit>robertov82</media:credit>
+      <media:description type='plain'/>
+      <media:keywords/>
+      <media:thumbnail url='https://lh4.googleusercontent.com/_nihWo5dxPFw/TDRqFS8ubJI/AAAAAAAAAGs/olmD9dIck8k/s72/Jellyfish.jpg' height='54' width='72'/>
+      <media:thumbnail url='https://lh4.googleusercontent.com/_nihWo5dxPFw/TDRqFS8ubJI/AAAAAAAAAGs/olmD9dIck8k/s144/Jellyfish.jpg' height='108' width='144'/>
+      <media:thumbnail url='https://lh4.googleusercontent.com/_nihWo5dxPFw/TDRqFS8ubJI/AAAAAAAAAGs/olmD9dIck8k/s288/Jellyfish.jpg' height='216' width='288'/>
+      <media:title type='plain'>Jellyfish.jpg</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>59.334091 18.098145</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/robertov82/albumid/5490824849223202081/photoid/5491130507776611506</id>
+    <published>2010-07-07T11:50:50.000Z</published>
+    <updated>2010-07-07T11:53:26.336Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/photos/2007#photo'/>
+    <title type='text'>Koala.jpg</title>
+    <summary type='text'/>
+    <content type='image/jpeg' src='https://lh4.googleusercontent.com/_nihWo5dxPFw/TDRqGoNV1LI/AAAAAAAAAGw/-2UhgYmOyzM/Koala.jpg'/>
+    <link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://picasaweb.google.com/data/feed/api/user/robertov82/albumid/5490824849223202081/photoid/5491130507776611506'/>
+    <link rel='alternate' type='text/html' href='http://picasaweb.google.com/robertov82/Pictures#5491130507776611506'/>
+    <link rel='http://schemas.google.com/photos/2007#canonical' type='text/html' href='http://picasaweb.google.com/lh/photo/eQCjSXbVmYNpJWP6xmpumA'/>
+    <link rel='self' type='application/atom+xml' href='https://picasaweb.google.com/data/entry/api/user/robertov82/albumid/5490824849223202081/photoid/5491130507776611506'/>
+    <link rel='http://schemas.google.com/photos/2007#report' type='text/html' href='http://picasaweb.google.com/lh/reportAbuse?uname=robertov82&amp;aid=5490824849223202081&amp;iid=5491130507776611506'/>
+    <gphoto:id>5491130507776611506</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>9.0</gphoto:position>
+    <gphoto:albumid>5490824849223202081</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1024</gphoto:width>
+    <gphoto:height>768</gphoto:height>
+    <gphoto:size>780831</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>9528000d</gphoto:checksum>
+    <gphoto:timestamp>1202722363000</gphoto:timestamp>
+    <gphoto:imageVersion>108</gphoto:imageVersion>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id='0' name='Med ensamrätt' url=''>ALL_RIGHTS_RESERVED</gphoto:license>
+    <exif:tags>
+      <exif:time>1202729563000</exif:time>
+      <exif:imageUniqueID>fee50ab614ae86c7af941dcc3edf042b</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url='https://lh4.googleusercontent.com/_nihWo5dxPFw/TDRqGoNV1LI/AAAAAAAAAGw/-2UhgYmOyzM/Koala.jpg' height='768' width='1024' type='image/jpeg' medium='image'/>
+      <media:credit>robertov82</media:credit>
+      <media:description type='plain'/>
+      <media:keywords/>
+      <media:thumbnail url='https://lh4.googleusercontent.com/_nihWo5dxPFw/TDRqGoNV1LI/AAAAAAAAAGw/-2UhgYmOyzM/s72/Koala.jpg' height='54' width='72'/>
+      <media:thumbnail url='https://lh4.googleusercontent.com/_nihWo5dxPFw/TDRqGoNV1LI/AAAAAAAAAGw/-2UhgYmOyzM/s144/Koala.jpg' height='108' width='144'/>
+      <media:thumbnail url='https://lh4.googleusercontent.com/_nihWo5dxPFw/TDRqGoNV1LI/AAAAAAAAAGw/-2UhgYmOyzM/s288/Koala.jpg' height='216' width='288'/>
+      <media:title type='plain'>Koala.jpg</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>59.334091 18.098145</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/robertov82/albumid/5490824849223202081/photoid/5491130518715190226</id>
+    <published>2010-07-07T11:50:53.000Z</published>
+    <updated>2010-07-07T11:53:26.846Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/photos/2007#photo'/>
+    <title type='text'>Lighthouse.jpg</title>
+    <summary type='text'/>
+    <content type='image/jpeg' src='https://lh5.googleusercontent.com/_nihWo5dxPFw/TDRqHQ9TS9I/AAAAAAAAAG0/FatupLXlcnY/Lighthouse.jpg'/>
+    <link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://picasaweb.google.com/data/feed/api/user/robertov82/albumid/5490824849223202081/photoid/5491130518715190226'/>
+    <link rel='alternate' type='text/html' href='http://picasaweb.google.com/robertov82/Pictures#5491130518715190226'/>
+    <link rel='http://schemas.google.com/photos/2007#canonical' type='text/html' href='http://picasaweb.google.com/lh/photo/Z90XE-X1qv2Q_FPrcKsygw'/>
+    <link rel='self' type='application/atom+xml' href='https://picasaweb.google.com/data/entry/api/user/robertov82/albumid/5490824849223202081/photoid/5491130518715190226'/>
+    <link rel='http://schemas.google.com/photos/2007#report' type='text/html' href='http://picasaweb.google.com/lh/reportAbuse?uname=robertov82&amp;aid=5490824849223202081&amp;iid=5491130518715190226'/>
+    <gphoto:id>5491130518715190226</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>10.0</gphoto:position>
+    <gphoto:albumid>5490824849223202081</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1024</gphoto:width>
+    <gphoto:height>768</gphoto:height>
+    <gphoto:size>561276</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>9528000d</gphoto:checksum>
+    <gphoto:timestamp>1202722371000</gphoto:timestamp>
+    <gphoto:imageVersion>109</gphoto:imageVersion>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id='0' name='Med ensamrätt' url=''>ALL_RIGHTS_RESERVED</gphoto:license>
+    <exif:tags>
+      <exif:time>1202729571000</exif:time>
+      <exif:imageUniqueID>2a3538c2c134db920e1245428f286989</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url='https://lh5.googleusercontent.com/_nihWo5dxPFw/TDRqHQ9TS9I/AAAAAAAAAG0/FatupLXlcnY/Lighthouse.jpg' height='768' width='1024' type='image/jpeg' medium='image'/>
+      <media:credit>robertov82</media:credit>
+      <media:description type='plain'/>
+      <media:keywords/>
+      <media:thumbnail url='https://lh5.googleusercontent.com/_nihWo5dxPFw/TDRqHQ9TS9I/AAAAAAAAAG0/FatupLXlcnY/s72/Lighthouse.jpg' height='54' width='72'/>
+      <media:thumbnail url='https://lh5.googleusercontent.com/_nihWo5dxPFw/TDRqHQ9TS9I/AAAAAAAAAG0/FatupLXlcnY/s144/Lighthouse.jpg' height='108' width='144'/>
+      <media:thumbnail url='https://lh5.googleusercontent.com/_nihWo5dxPFw/TDRqHQ9TS9I/AAAAAAAAAG0/FatupLXlcnY/s288/Lighthouse.jpg' height='216' width='288'/>
+      <media:title type='plain'>Lighthouse.jpg</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>59.334091 18.098145</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/robertov82/albumid/5490824849223202081/photoid/5491130538234183858</id>
+    <published>2010-07-07T11:50:57.000Z</published>
+    <updated>2010-07-07T11:53:27.463Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/photos/2007#photo'/>
+    <title type='text'>Penguins.jpg</title>
+    <summary type='text'/>
+    <content type='image/jpeg' src='https://lh5.googleusercontent.com/_nihWo5dxPFw/TDRqIZq_gLI/AAAAAAAAAG4/yI5d-pD3dSk/Penguins.jpg'/>
+    <link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://picasaweb.google.com/data/feed/api/user/robertov82/albumid/5490824849223202081/photoid/5491130538234183858'/>
+    <link rel='alternate' type='text/html' href='http://picasaweb.google.com/robertov82/Pictures#5491130538234183858'/>
+    <link rel='http://schemas.google.com/photos/2007#canonical' type='text/html' href='http://picasaweb.google.com/lh/photo/0ZauWb0KsYmWUy8xcjknHw'/>
+    <link rel='self' type='application/atom+xml' href='https://picasaweb.google.com/data/entry/api/user/robertov82/albumid/5490824849223202081/photoid/5491130538234183858'/>
+    <link rel='http://schemas.google.com/photos/2007#report' type='text/html' href='http://picasaweb.google.com/lh/reportAbuse?uname=robertov82&amp;aid=5490824849223202081&amp;iid=5491130538234183858'/>
+    <gphoto:id>5491130538234183858</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>11.0</gphoto:position>
+    <gphoto:albumid>5490824849223202081</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1024</gphoto:width>
+    <gphoto:height>768</gphoto:height>
+    <gphoto:size>777835</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>9528000d</gphoto:checksum>
+    <gphoto:timestamp>1203304051000</gphoto:timestamp>
+    <gphoto:imageVersion>110</gphoto:imageVersion>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id='0' name='Med ensamrätt' url=''>ALL_RIGHTS_RESERVED</gphoto:license>
+    <exif:tags>
+      <exif:time>1203311251000</exif:time>
+      <exif:imageUniqueID>852707a9b8d70baa498c77ce107b379d</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url='https://lh5.googleusercontent.com/_nihWo5dxPFw/TDRqIZq_gLI/AAAAAAAAAG4/yI5d-pD3dSk/Penguins.jpg' height='768' width='1024' type='image/jpeg' medium='image'/>
+      <media:credit>robertov82</media:credit>
+      <media:description type='plain'/>
+      <media:keywords/>
+      <media:thumbnail url='https://lh5.googleusercontent.com/_nihWo5dxPFw/TDRqIZq_gLI/AAAAAAAAAG4/yI5d-pD3dSk/s72/Penguins.jpg' height='54' width='72'/>
+      <media:thumbnail url='https://lh5.googleusercontent.com/_nihWo5dxPFw/TDRqIZq_gLI/AAAAAAAAAG4/yI5d-pD3dSk/s144/Penguins.jpg' height='108' width='144'/>
+      <media:thumbnail url='https://lh5.googleusercontent.com/_nihWo5dxPFw/TDRqIZq_gLI/AAAAAAAAAG4/yI5d-pD3dSk/s288/Penguins.jpg' height='216' width='288'/>
+      <media:title type='plain'>Penguins.jpg</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>59.334091 18.098145</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/robertov82/albumid/5490824849223202081/photoid/5491130558021676098</id>
+    <published>2010-07-07T11:51:02.000Z</published>
+    <updated>2010-07-07T11:53:28.159Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/photos/2007#photo'/>
+    <title type='text'>Chrysanthemum.jpg</title>
+    <summary type='text'/>
+    <content type='image/jpeg' src='https://lh3.googleusercontent.com/_nihWo5dxPFw/TDRqJjYsrEI/AAAAAAAAAG8/p-VzbSoSiXc/Chrysanthemum.jpg'/>
+    <link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://picasaweb.google.com/data/feed/api/user/robertov82/albumid/5490824849223202081/photoid/5491130558021676098'/>
+    <link rel='alternate' type='text/html' href='http://picasaweb.google.com/robertov82/Pictures#5491130558021676098'/>
+    <link rel='http://schemas.google.com/photos/2007#canonical' type='text/html' href='http://picasaweb.google.com/lh/photo/fzQ7VwfrxF5SSTU0lQzlNQ'/>
+    <link rel='self' type='application/atom+xml' href='https://picasaweb.google.com/data/entry/api/user/robertov82/albumid/5490824849223202081/photoid/5491130558021676098'/>
+    <link rel='http://schemas.google.com/photos/2007#report' type='text/html' href='http://picasaweb.google.com/lh/reportAbuse?uname=robertov82&amp;aid=5490824849223202081&amp;iid=5491130558021676098'/>
+    <gphoto:id>5491130558021676098</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>12.0</gphoto:position>
+    <gphoto:albumid>5490824849223202081</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1024</gphoto:width>
+    <gphoto:height>768</gphoto:height>
+    <gphoto:size>879394</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>9528000d</gphoto:checksum>
+    <gphoto:timestamp>1205495966000</gphoto:timestamp>
+    <gphoto:imageVersion>111</gphoto:imageVersion>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id='0' name='Med ensamrätt' url=''>ALL_RIGHTS_RESERVED</gphoto:license>
+    <exif:tags>
+      <exif:time>1205503166000</exif:time>
+      <exif:imageUniqueID>c8805a8c385b3d7ac1a158d7ae3c6e07</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url='https://lh3.googleusercontent.com/_nihWo5dxPFw/TDRqJjYsrEI/AAAAAAAAAG8/p-VzbSoSiXc/Chrysanthemum.jpg' height='768' width='1024' type='image/jpeg' medium='image'/>
+      <media:credit>robertov82</media:credit>
+      <media:description type='plain'/>
+      <media:keywords/>
+      <media:thumbnail url='https://lh3.googleusercontent.com/_nihWo5dxPFw/TDRqJjYsrEI/AAAAAAAAAG8/p-VzbSoSiXc/s72/Chrysanthemum.jpg' height='54' width='72'/>
+      <media:thumbnail url='https://lh3.googleusercontent.com/_nihWo5dxPFw/TDRqJjYsrEI/AAAAAAAAAG8/p-VzbSoSiXc/s144/Chrysanthemum.jpg' height='108' width='144'/>
+      <media:thumbnail url='https://lh3.googleusercontent.com/_nihWo5dxPFw/TDRqJjYsrEI/AAAAAAAAAG8/p-VzbSoSiXc/s288/Chrysanthemum.jpg' height='216' width='288'/>
+      <media:title type='plain'>Chrysanthemum.jpg</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>59.334091 18.098145</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/robertov82/albumid/5490824849223202081/photoid/5491130578057798450</id>
+    <published>2010-07-07T11:51:06.000Z</published>
+    <updated>2010-07-07T11:53:28.725Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/photos/2007#photo'/>
+    <title type='text'>Desert.jpg</title>
+    <summary type='text'/>
+    <content type='image/jpeg' src='https://lh6.googleusercontent.com/_nihWo5dxPFw/TDRqKuBrozI/AAAAAAAAAHA/Vf268h_w0xQ/Desert.jpg'/>
+    <link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://picasaweb.google.com/data/feed/api/user/robertov82/albumid/5490824849223202081/photoid/5491130578057798450'/>
+    <link rel='alternate' type='text/html' href='http://picasaweb.google.com/robertov82/Pictures#5491130578057798450'/>
+    <link rel='http://schemas.google.com/photos/2007#canonical' type='text/html' href='http://picasaweb.google.com/lh/photo/Zyoven6nhEAy7IlILZwZrQ'/>
+    <link rel='self' type='application/atom+xml' href='https://picasaweb.google.com/data/entry/api/user/robertov82/albumid/5490824849223202081/photoid/5491130578057798450'/>
+    <link rel='http://schemas.google.com/photos/2007#report' type='text/html' href='http://picasaweb.google.com/lh/reportAbuse?uname=robertov82&amp;aid=5490824849223202081&amp;iid=5491130578057798450'/>
+    <gphoto:id>5491130578057798450</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>13.0</gphoto:position>
+    <gphoto:albumid>5490824849223202081</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1024</gphoto:width>
+    <gphoto:height>768</gphoto:height>
+    <gphoto:size>845941</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>9528000d</gphoto:checksum>
+    <gphoto:timestamp>1205495966000</gphoto:timestamp>
+    <gphoto:imageVersion>112</gphoto:imageVersion>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id='0' name='Med ensamrätt' url=''>ALL_RIGHTS_RESERVED</gphoto:license>
+    <exif:tags>
+      <exif:time>1205503166000</exif:time>
+      <exif:imageUniqueID>44ad855dea1fe6c772a65604f6c845ba</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url='https://lh6.googleusercontent.com/_nihWo5dxPFw/TDRqKuBrozI/AAAAAAAAAHA/Vf268h_w0xQ/Desert.jpg' height='768' width='1024' type='image/jpeg' medium='image'/>
+      <media:credit>robertov82</media:credit>
+      <media:description type='plain'/>
+      <media:keywords/>
+      <media:thumbnail url='https://lh6.googleusercontent.com/_nihWo5dxPFw/TDRqKuBrozI/AAAAAAAAAHA/Vf268h_w0xQ/s72/Desert.jpg' height='54' width='72'/>
+      <media:thumbnail url='https://lh6.googleusercontent.com/_nihWo5dxPFw/TDRqKuBrozI/AAAAAAAAAHA/Vf268h_w0xQ/s144/Desert.jpg' height='108' width='144'/>
+      <media:thumbnail url='https://lh6.googleusercontent.com/_nihWo5dxPFw/TDRqKuBrozI/AAAAAAAAAHA/Vf268h_w0xQ/s288/Desert.jpg' height='216' width='288'/>
+      <media:title type='plain'>Desert.jpg</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>59.334091 18.098145</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/robertov82/albumid/5490824849223202081/photoid/5491130594032790306</id>
+    <published>2010-07-07T11:51:10.000Z</published>
+    <updated>2010-07-07T11:53:30.702Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/photos/2007#photo'/>
+    <title type='text'>Hydrangeas.jpg</title>
+    <summary type='text'/>
+    <content type='image/jpeg' src='https://lh5.googleusercontent.com/_nihWo5dxPFw/TDRqLpiaqyI/AAAAAAAAAHI/n68nCe78s5s/Hydrangeas.jpg'/>
+    <link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://picasaweb.google.com/data/feed/api/user/robertov82/albumid/5490824849223202081/photoid/5491130594032790306'/>
+    <link rel='alternate' type='text/html' href='http://picasaweb.google.com/robertov82/Pictures#5491130594032790306'/>
+    <link rel='http://schemas.google.com/photos/2007#canonical' type='text/html' href='http://picasaweb.google.com/lh/photo/5fEXdz8zK6HFTieboEWtYA'/>
+    <link rel='self' type='application/atom+xml' href='https://picasaweb.google.com/data/entry/api/user/robertov82/albumid/5490824849223202081/photoid/5491130594032790306'/>
+    <link rel='http://schemas.google.com/photos/2007#report' type='text/html' href='http://picasaweb.google.com/lh/reportAbuse?uname=robertov82&amp;aid=5490824849223202081&amp;iid=5491130594032790306'/>
+    <gphoto:id>5491130594032790306</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>14.0</gphoto:position>
+    <gphoto:albumid>5490824849223202081</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1024</gphoto:width>
+    <gphoto:height>768</gphoto:height>
+    <gphoto:size>595284</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>9528000d</gphoto:checksum>
+    <gphoto:timestamp>1206369713000</gphoto:timestamp>
+    <gphoto:imageVersion>114</gphoto:imageVersion>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id='0' name='Med ensamrätt' url=''>ALL_RIGHTS_RESERVED</gphoto:license>
+    <exif:tags>
+      <exif:time>1206376913000</exif:time>
+      <exif:imageUniqueID>c97216689c2e1820255740a31dbff3bd</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url='https://lh5.googleusercontent.com/_nihWo5dxPFw/TDRqLpiaqyI/AAAAAAAAAHI/n68nCe78s5s/Hydrangeas.jpg' height='768' width='1024' type='image/jpeg' medium='image'/>
+      <media:credit>robertov82</media:credit>
+      <media:description type='plain'/>
+      <media:keywords/>
+      <media:thumbnail url='https://lh5.googleusercontent.com/_nihWo5dxPFw/TDRqLpiaqyI/AAAAAAAAAHI/n68nCe78s5s/s72/Hydrangeas.jpg' height='54' width='72'/>
+      <media:thumbnail url='https://lh5.googleusercontent.com/_nihWo5dxPFw/TDRqLpiaqyI/AAAAAAAAAHI/n68nCe78s5s/s144/Hydrangeas.jpg' height='108' width='144'/>
+      <media:thumbnail url='https://lh5.googleusercontent.com/_nihWo5dxPFw/TDRqLpiaqyI/AAAAAAAAAHI/n68nCe78s5s/s288/Hydrangeas.jpg' height='216' width='288'/>
+      <media:title type='plain'>Hydrangeas.jpg</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>59.334091 18.098145</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/robertov82/albumid/5490824849223202081/photoid/5491130744692150754</id>
+    <published>2010-07-07T11:51:45.000Z</published>
+    <updated>2010-07-07T11:51:45.318Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/photos/2007#photo'/>
+    <title type='text'>city sned s.jpg</title>
+    <summary type='text'>                               </summary>
+    <content type='image/jpeg' src='https://lh4.googleusercontent.com/_nihWo5dxPFw/TDRqUayaEeI/AAAAAAAAAHM/tVd8ykDk9xg/city%20sned%20s.jpg'/>
+    <link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://picasaweb.google.com/data/feed/api/user/robertov82/albumid/5490824849223202081/photoid/5491130744692150754'/>
+    <link rel='alternate' type='text/html' href='http://picasaweb.google.com/robertov82/Pictures#5491130744692150754'/>
+    <link rel='http://schemas.google.com/photos/2007#canonical' type='text/html' href='http://picasaweb.google.com/lh/photo/c1fMk-tv_odIHDdBlInm0Q'/>
+    <link rel='self' type='application/atom+xml' href='https://picasaweb.google.com/data/entry/api/user/robertov82/albumid/5490824849223202081/photoid/5491130744692150754'/>
+    <link rel='http://schemas.google.com/photos/2007#report' type='text/html' href='http://picasaweb.google.com/lh/reportAbuse?uname=robertov82&amp;aid=5490824849223202081&amp;iid=5491130744692150754'/>
+    <gphoto:id>5491130744692150754</gphoto:id>
+    <gphoto:version>1</gphoto:version>
+    <gphoto:position>15.0</gphoto:position>
+    <gphoto:albumid>5490824849223202081</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>606</gphoto:width>
+    <gphoto:height>455</gphoto:height>
+    <gphoto:size>103009</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>a91ff46</gphoto:checksum>
+    <gphoto:timestamp>1095180007000</gphoto:timestamp>
+    <gphoto:imageVersion>115</gphoto:imageVersion>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id='0' name='Med ensamrätt' url=''>ALL_RIGHTS_RESERVED</gphoto:license>
+    <exif:tags>
+      <exif:fstop>4.0</exif:fstop>
+      <exif:make>SONY</exif:make>
+      <exif:model>DSC-V1</exif:model>
+      <exif:exposure>0.00625</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>9.1</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1095180007000</exif:time>
+      <exif:imageUniqueID>1b39e9ba82a35294a97e16b922d19144</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url='https://lh4.googleusercontent.com/_nihWo5dxPFw/TDRqUayaEeI/AAAAAAAAAHM/tVd8ykDk9xg/city%20sned%20s.jpg' height='455' width='606' type='image/jpeg' medium='image'/>
+      <media:credit>robertov82</media:credit>
+      <media:description type='plain'>                               </media:description>
+      <media:keywords/>
+      <media:thumbnail url='https://lh4.googleusercontent.com/_nihWo5dxPFw/TDRqUayaEeI/AAAAAAAAAHM/tVd8ykDk9xg/s72/city%20sned%20s.jpg' height='55' width='72'/>
+      <media:thumbnail url='https://lh4.googleusercontent.com/_nihWo5dxPFw/TDRqUayaEeI/AAAAAAAAAHM/tVd8ykDk9xg/s144/city%20sned%20s.jpg' height='109' width='144'/>
+      <media:thumbnail url='https://lh4.googleusercontent.com/_nihWo5dxPFw/TDRqUayaEeI/AAAAAAAAAHM/tVd8ykDk9xg/s288/city%20sned%20s.jpg' height='217' width='288'/>
+      <media:title type='plain'>city sned s.jpg</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/robertov82/albumid/5490824849223202081/photoid/5491130749012787074</id>
+    <published>2010-07-07T11:51:46.000Z</published>
+    <updated>2010-07-07T11:51:46.600Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/photos/2007#photo'/>
+    <title type='text'>FiSK_logo2_Pant.jpg</title>
+    <summary type='text'/>
+    <content type='image/jpeg' src='https://lh4.googleusercontent.com/_nihWo5dxPFw/TDRqUq4hv4I/AAAAAAAAAHQ/zi9dxloW9Sg/FiSK_logo2_Pant.jpg'/>
+    <link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://picasaweb.google.com/data/feed/api/user/robertov82/albumid/5490824849223202081/photoid/5491130749012787074'/>
+    <link rel='alternate' type='text/html' href='http://picasaweb.google.com/robertov82/Pictures#5491130749012787074'/>
+    <link rel='http://schemas.google.com/photos/2007#canonical' type='text/html' href='http://picasaweb.google.com/lh/photo/Diufeq2w_tdFf7xBkS-_XA'/>
+    <link rel='self' type='application/atom+xml' href='https://picasaweb.google.com/data/entry/api/user/robertov82/albumid/5490824849223202081/photoid/5491130749012787074'/>
+    <link rel='http://schemas.google.com/photos/2007#report' type='text/html' href='http://picasaweb.google.com/lh/reportAbuse?uname=robertov82&amp;aid=5490824849223202081&amp;iid=5491130749012787074'/>
+    <gphoto:id>5491130749012787074</gphoto:id>
+    <gphoto:version>1</gphoto:version>
+    <gphoto:position>16.0</gphoto:position>
+    <gphoto:albumid>5490824849223202081</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>290</gphoto:width>
+    <gphoto:height>111</gphoto:height>
+    <gphoto:size>36862</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>8d409f39</gphoto:checksum>
+    <gphoto:timestamp>1136384291000</gphoto:timestamp>
+    <gphoto:imageVersion>116</gphoto:imageVersion>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id='0' name='Med ensamrätt' url=''>ALL_RIGHTS_RESERVED</gphoto:license>
+    <exif:tags>
+      <exif:imageUniqueID>ee1be86da6e35b2a48964641ff93b4c6</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url='https://lh4.googleusercontent.com/_nihWo5dxPFw/TDRqUq4hv4I/AAAAAAAAAHQ/zi9dxloW9Sg/FiSK_logo2_Pant.jpg' height='111' width='290' type='image/jpeg' medium='image'/>
+      <media:credit>robertov82</media:credit>
+      <media:description type='plain'/>
+      <media:keywords/>
+      <media:thumbnail url='https://lh4.googleusercontent.com/_nihWo5dxPFw/TDRqUq4hv4I/AAAAAAAAAHQ/zi9dxloW9Sg/s72/FiSK_logo2_Pant.jpg' height='28' width='72'/>
+      <media:thumbnail url='https://lh4.googleusercontent.com/_nihWo5dxPFw/TDRqUq4hv4I/AAAAAAAAAHQ/zi9dxloW9Sg/s144/FiSK_logo2_Pant.jpg' height='56' width='144'/>
+      <media:thumbnail url='https://lh4.googleusercontent.com/_nihWo5dxPFw/TDRqUq4hv4I/AAAAAAAAAHQ/zi9dxloW9Sg/s288/FiSK_logo2_Pant.jpg' height='111' width='288'/>
+      <media:title type='plain'>FiSK_logo2_Pant.jpg</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/robertov82/albumid/5490824849223202081/photoid/5491130755865832882</id>
+    <published>2010-07-07T11:51:48.000Z</published>
+    <updated>2010-07-07T11:51:48.082Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/photos/2007#photo'/>
+    <title type='text'>ekonomi.jpg</title>
+    <summary type='text'/>
+    <content type='image/jpeg' src='https://lh3.googleusercontent.com/_nihWo5dxPFw/TDRqVEaa7bI/AAAAAAAAAHU/5lm_erWMwXg/ekonomi.jpg'/>
+    <link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://picasaweb.google.com/data/feed/api/user/robertov82/albumid/5490824849223202081/photoid/5491130755865832882'/>
+    <link rel='alternate' type='text/html' href='http://picasaweb.google.com/robertov82/Pictures#5491130755865832882'/>
+    <link rel='http://schemas.google.com/photos/2007#canonical' type='text/html' href='http://picasaweb.google.com/lh/photo/E3djCMyXla1LpsK0rGl5-A'/>
+    <link rel='self' type='application/atom+xml' href='https://picasaweb.google.com/data/entry/api/user/robertov82/albumid/5490824849223202081/photoid/5491130755865832882'/>
+    <link rel='http://schemas.google.com/photos/2007#report' type='text/html' href='http://picasaweb.google.com/lh/reportAbuse?uname=robertov82&amp;aid=5490824849223202081&amp;iid=5491130755865832882'/>
+    <gphoto:id>5491130755865832882</gphoto:id>
+    <gphoto:version>1</gphoto:version>
+    <gphoto:position>17.0</gphoto:position>
+    <gphoto:albumid>5490824849223202081</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>615</gphoto:width>
+    <gphoto:height>235</gphoto:height>
+    <gphoto:size>37181</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>a91ff46</gphoto:checksum>
+    <gphoto:timestamp>1142932399000</gphoto:timestamp>
+    <gphoto:imageVersion>117</gphoto:imageVersion>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id='0' name='Med ensamrätt' url=''>ALL_RIGHTS_RESERVED</gphoto:license>
+    <exif:tags>
+      <exif:imageUniqueID>0b3f617e0210efa821d63277ef8b492d</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url='https://lh3.googleusercontent.com/_nihWo5dxPFw/TDRqVEaa7bI/AAAAAAAAAHU/5lm_erWMwXg/ekonomi.jpg' height='235' width='615' type='image/jpeg' medium='image'/>
+      <media:credit>robertov82</media:credit>
+      <media:description type='plain'/>
+      <media:keywords/>
+      <media:thumbnail url='https://lh3.googleusercontent.com/_nihWo5dxPFw/TDRqVEaa7bI/AAAAAAAAAHU/5lm_erWMwXg/s72/ekonomi.jpg' height='28' width='72'/>
+      <media:thumbnail url='https://lh3.googleusercontent.com/_nihWo5dxPFw/TDRqVEaa7bI/AAAAAAAAAHU/5lm_erWMwXg/s144/ekonomi.jpg' height='56' width='144'/>
+      <media:thumbnail url='https://lh3.googleusercontent.com/_nihWo5dxPFw/TDRqVEaa7bI/AAAAAAAAAHU/5lm_erWMwXg/s288/ekonomi.jpg' height='111' width='288'/>
+      <media:title type='plain'>ekonomi.jpg</media:title>
+    </media:group>
+  </entry>
+</feed>

@@ -1,0 +1,235 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="5086C0FA-F3A2-4858-A268-EC91380689F9/f:Global.asax.cs" caret="637" fromTop="24" />
+      <File id="5086C0FA-F3A2-4858-A268-EC91380689F9/d:Configuration/f:Bootstrapper.cs" caret="277" fromTop="10" />
+      <File id="AF101BA1-25D0-415B-88CA-901F59C50C21/d:Resources/f:PhotosFeed.xml" caret="2766" fromTop="34" />
+      <File id="AF101BA1-25D0-415B-88CA-901F59C50C21/d:Resources/f:AlbumFeed.xml" caret="4339" fromTop="19" />
+      <File id="5086C0FA-F3A2-4858-A268-EC91380689F9/d:Development/f:ServiceLocator.cs" caret="0" fromTop="0" />
+      <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/f:app.config" caret="2769" fromTop="23" />
+      <File id="AF101BA1-25D0-415B-88CA-901F59C50C21/f:PicasaPhotoTest.cs" caret="471" fromTop="15" />
+      <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/d:DataAccess/f:Photo.cs" caret="0" fromTop="0" />
+      <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/f:PicasaPhotoSize.cs" caret="1192" fromTop="29" />
+      <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/f:Access.cs" caret="0" fromTop="0" />
+      <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/d:DataAccess/f:AuthService.cs" caret="292" fromTop="9" />
+      <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/d:Mapper/f:PicasaPhotoMapper.cs" caret="165" fromTop="6" />
+      <File id="d:Miscellaneous Files/f:PicasaPhoto.cs/l:C!?Development?Cloudnine.Labs.ImageNine?CloudNine.ImageHandler?PicasaPhoto.cs" caret="0" fromTop="0" />
+      <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/d:DataAccess/f:PicasaPhotoBankRepository.cs" caret="4444" fromTop="38" />
+      <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/d:Abstraction/f:IPicasaPhotoBankRepository.cs" caret="521" fromTop="10" />
+      <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/d:Abstraction/f:IPicasaPhotoBankService.cs" caret="582" fromTop="11" />
+      <File id="5086C0FA-F3A2-4858-A268-EC91380689F9/f:Default.aspx.cs" caret="395" fromTop="11" />
+      <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/f:PicasaPhotoBankService.cs" caret="1737" fromTop="27" />
+      <File id="5086C0FA-F3A2-4858-A268-EC91380689F9/d:Configuration/f:WebRegistry.cs" caret="509" fromTop="16" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="5086C0FA-F3A2-4858-A268-EC91380689F9/f:Global.asax.cs" caret="950" fromTop="41" />
+      <File id="5086C0FA-F3A2-4858-A268-EC91380689F9/f:Default.aspx.cs" caret="13" fromTop="0" />
+      <File id="5086C0FA-F3A2-4858-A268-EC91380689F9/f:Default.aspx.cs" caret="527" fromTop="11" />
+      <File id="5086C0FA-F3A2-4858-A268-EC91380689F9/d:Configuration/f:WebRegistry.cs" caret="1035" fromTop="19" />
+      <File id="5086C0FA-F3A2-4858-A268-EC91380689F9/d:Configuration/f:WebRegistry.cs" caret="1035" fromTop="18" />
+      <File id="5086C0FA-F3A2-4858-A268-EC91380689F9/d:Configuration/f:WebRegistry.cs" caret="1036" fromTop="21" />
+      <File id="5086C0FA-F3A2-4858-A268-EC91380689F9/d:Configuration/f:WebRegistry.cs" caret="1049" fromTop="20" />
+      <File id="5086C0FA-F3A2-4858-A268-EC91380689F9/d:Configuration/f:WebRegistry.cs" caret="0" fromTop="0" />
+      <File id="5086C0FA-F3A2-4858-A268-EC91380689F9/d:Configuration/f:WebRegistry.cs" caret="1160" fromTop="9" />
+      <File id="5086C0FA-F3A2-4858-A268-EC91380689F9/d:Configuration/f:WebRegistry.cs" caret="991" fromTop="18" />
+      <File id="5086C0FA-F3A2-4858-A268-EC91380689F9/d:Configuration/f:WebRegistry.cs" caret="1049" fromTop="19" />
+      <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/d:DataAccess/f:PicasaPhotoBankRepository.cs" caret="3405" fromTop="35" />
+      <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/d:DataAccess/f:PicasaPhotoBankRepository.cs" caret="3568" fromTop="38" />
+      <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/d:DataAccess/f:AuthService.cs" caret="700" fromTop="35" />
+      <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/d:DataAccess/f:AuthService.cs" caret="495" fromTop="33" />
+      <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/d:DataAccess/f:AuthService.cs" caret="243" fromTop="8" />
+      <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/d:DataAccess/f:AuthService.cs" caret="45" fromTop="1" />
+      <File id="5086C0FA-F3A2-4858-A268-EC91380689F9/d:Configuration/f:WebRegistry.cs" caret="992" fromTop="20" />
+      <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/d:DataAccess/f:PicasaPhotoBankRepository.cs" caret="701" fromTop="18" />
+      <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/d:DataAccess/f:PicasaPhotoBankRepository.cs" caret="3497" fromTop="33" />
+      <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/d:DataAccess/f:PicasaPhotoBankRepository.cs" caret="316" fromTop="10" />
+      <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/d:DataAccess/f:PicasaPhotoBankRepository.cs" caret="4326" fromTop="35" />
+      <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/d:DataAccess/f:PicasaPhotoBankRepository.cs" caret="4444" fromTop="38" />
+      <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/d:Abstraction/f:IPicasaPhotoBankRepository.cs" caret="583" fromTop="10" />
+      <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/d:Abstraction/f:IPicasaPhotoBankService.cs" caret="582" fromTop="11" />
+      <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/f:PicasaPhotoBankService.cs" caret="224" fromTop="7" />
+      <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/f:PicasaPhotoBankService.cs" caret="2108" fromTop="28" />
+      <File id="5086C0FA-F3A2-4858-A268-EC91380689F9/f:Default.aspx.cs" caret="433" fromTop="11" />
+      <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/f:PicasaPhotoBankService.cs" caret="1862" fromTop="30" />
+      <File id="5086C0FA-F3A2-4858-A268-EC91380689F9/d:Configuration/f:WebRegistry.cs" caret="509" fromTop="16" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:@StructureMap.ObjectFactory">
+      <Item value="Initialize`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:StructureMap.IInitializationExpression">
+      <Item value="AddRegistry`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Default">
+      <Item value="new" priority="14" />
+      <Item value="FormatException`0" priority="0" />
+      <Item value="HttpContext`0" priority="0" />
+      <Item value="public" priority="2" />
+      <Item value="WebRegistry`0" priority="1" />
+      <Item value="IContainer`0" priority="0" />
+      <Item value="container" priority="0" />
+      <Item value="private" priority="1" />
+      <Item value="service" priority="7" />
+      <Item value="ServiceLocator`0" priority="0" />
+      <Item value="For`0" priority="1" />
+      <Item value="Settings" priority="8" />
+      <Item value="ImageNine" priority="10" />
+      <Item value="instance" priority="0" />
+      <Item value="using" priority="0" />
+      <Item value="Configuration" priority="1" />
+      <Item value="ConfigurationUserLevel`0" priority="0" />
+      <Item value="conf" priority="0" />
+      <Item value="Application" priority="0" />
+      <Item value="Web" priority="0" />
+      <Item value="FillAllPropertiesOfType`1" priority="0" />
+      <Item value="ImageNineSettings`0" priority="0" />
+      <Item value="Configuration`0" priority="0" />
+      <Item value="ConfigurationSettings`0" priority="0" />
+      <Item value="Properties" priority="0" />
+      <Item value="Settings`0" priority="0" />
+      <Item value="void" priority="1" />
+      <Item value="string" priority="13" />
+      <Item value="albumEntry" priority="7" />
+      <Item value="AlbumEntry" priority="0" />
+      <Item value="albumSummery" priority="0" />
+      <Item value="AlbumAccessor`0" priority="0" />
+      <Item value="albumAccessor" priority="2" />
+      <Item value="AlbumAccessor" priority="0" />
+      <Item value="Access`0" priority="0" />
+      <Item value="photosUri" priority="0" />
+      <Item value="Uri" priority="1" />
+      <Item value="PicasaQuery`0" priority="1" />
+      <Item value="userName" priority="4" />
+      <Item value="AuthService`0" priority="1" />
+      <Item value="Google" priority="1" />
+      <Item value="GData" priority="1" />
+      <Item value="Photos" priority="1" />
+      <Item value="PicasaService`0" priority="1" />
+      <Item value="picasaService" priority="1" />
+      <Item value="PicasaService" priority="0" />
+      <Item value="picasaAppName" priority="0" />
+      <Item value="password" priority="0" />
+      <Item value="return" priority="1" />
+      <Item value="PicasaEntry`0" priority="1" />
+      <Item value="picasaEntry" priority="0" />
+      <Item value="feedUri" priority="0" />
+      <Item value="photoBankRepository" priority="1" />
+      <Item value="albumTitle" priority="0" />
+      <Item value="albumSummary" priority="0" />
+      <Item value="var" priority="3" />
+      <Item value="PhotoEntry`0" priority="0" />
+      <Item value="Uri`0" priority="0" />
+      <Item value="albumId" priority="1" />
+      <Item value="fileInfo" priority="2" />
+      <Item value="FileInfo" priority="2" />
+      <Item value="FileStream`0" priority="1" />
+      <Item value="fileStream" priority="4" />
+      <Item value="FileStream" priority="0" />
+      <Item value="FileInfo`0" priority="3" />
+      <Item value="filePath" priority="0" />
+      <Item value="Open" priority="0" />
+      <Item value="postUri" priority="0" />
+      <Item value="dfi" priority="0" />
+      <Item value="file" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:StructureMap.IContainer">
+      <Item value="Configure`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ImageNine.Web.Development.ServiceLocator">
+      <Item value="GetService`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ImageNine.Abstraction.IPicasaPhotoBankService">
+      <Item value="DeletePhoto`0" priority="0" />
+      <Item value="CreateNewAlbum`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:StructureMap.Configuration.DSL.Expressions.CreatePluginFamilyExpression`1">
+      <Item value="Use`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:StructureMap.Pipeline.SmartInstance`1">
+      <Item value="SetProperty`0" priority="0" />
+      <Item value="Ctor`1" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:StructureMap.Pipeline.SmartInstance`1+DependencyExpression`1">
+      <Item value="Is`1" priority="8" />
+      <Item value="EqualToAppSetting`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Configuration.ConfigurationManager">
+      <Item value="AppSettings" priority="0" />
+      <Item value="OpenExeConfiguration`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Configuration.ConfigurationUserLevel">
+      <Item value="None" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ImageNine.Settings.ImageNineSettings">
+      <Item value="Default" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Configuration.ConfigurationSettings">
+      <Item value="AppSettings" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ImageNine.Properties.Settings">
+      <Item value="Default" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ImageNine.Properties.Settings">
+      <Item value="AlbumUri" priority="0" />
+      <Item value="AlbumPhotosUri" priority="0" />
+      <Item value="PhotoUri" priority="0" />
+      <Item value="DeletePhotoUri" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Google.GData.Photos.AlbumEntry">
+      <Item value="Title" priority="0" />
+      <Item value="Summary" priority="0" />
+      <Item value="Id" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Google.GData.Client.AtomTextConstruct">
+      <Item value="Text" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Google.GData.Photos.AlbumAccessor">
+      <Item value="Access" priority="0" />
+      <Item value="Id" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Google.GData.Photos.PicasaQuery">
+      <Item value="CreatePicasaUri`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Google.GData.Photos.PicasaService">
+      <Item value="Credentials" priority="0" />
+      <Item value="setUserCredentials`0" priority="0" />
+      <Item value="Insert`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ImageNine.DataAccess.AuthService">
+      <Item value="Service`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ImageNine.Abstraction.IPicasaPhotoBankRepository">
+      <Item value="CreateNewAlbum`0" priority="0" />
+      <Item value="PostNewPhoto`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.FileMode">
+      <Item value="Open" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.FileInfo">
+      <Item value="Extension" priority="1" />
+      <Item value="OpenRead`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.FileStream">
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

@@ -1,0 +1,16 @@
+C:\Development\Cloudnine.Labs.ImageNine\ImageNineTest\bin\Debug\Resources\AlbumFeed.xml
+C:\Development\Cloudnine.Labs.ImageNine\ImageNineTest\bin\Debug\ImageNineTest.dll
+C:\Development\Cloudnine.Labs.ImageNine\ImageNineTest\bin\Debug\ImageNineTest.pdb
+C:\Development\Cloudnine.Labs.ImageNine\ImageNineTest\bin\Debug\ImageNine.dll
+C:\Development\Cloudnine.Labs.ImageNine\ImageNineTest\bin\Debug\Moq.dll
+C:\Development\Cloudnine.Labs.ImageNine\ImageNineTest\bin\Debug\nunit.framework.dll
+C:\Development\Cloudnine.Labs.ImageNine\ImageNineTest\bin\Debug\Google.GData.Photos.dll
+C:\Development\Cloudnine.Labs.ImageNine\ImageNineTest\bin\Debug\Google.GData.Client.dll
+C:\Development\Cloudnine.Labs.ImageNine\ImageNineTest\bin\Debug\Google.GData.Extensions.dll
+C:\Development\Cloudnine.Labs.ImageNine\ImageNineTest\bin\Debug\ImageNine.pdb
+C:\Development\Cloudnine.Labs.ImageNine\ImageNineTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\Cloudnine.Labs.ImageNine\ImageNineTest\obj\Debug\ImageNineTest.Properties.Resources.resources
+C:\Development\Cloudnine.Labs.ImageNine\ImageNineTest\obj\Debug\GenerateResource.read.1.tlog
+C:\Development\Cloudnine.Labs.ImageNine\ImageNineTest\obj\Debug\GenerateResource.write.1.tlog
+C:\Development\Cloudnine.Labs.ImageNine\ImageNineTest\obj\Debug\ImageNineTest.dll
+C:\Development\Cloudnine.Labs.ImageNine\ImageNineTest\obj\Debug\ImageNineTest.pdb

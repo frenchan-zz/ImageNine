@@ -1,0 +1,11 @@
+C:\Development\Cloudnine.Labs.ImageNine\ImageNine.Web\bin\ImageNine.Web.dll
+C:\Development\Cloudnine.Labs.ImageNine\ImageNine.Web\bin\ImageNine.Web.pdb
+C:\Development\Cloudnine.Labs.ImageNine\ImageNine.Web\bin\ImageNine.dll
+C:\Development\Cloudnine.Labs.ImageNine\ImageNine.Web\bin\StructureMap.dll
+C:\Development\Cloudnine.Labs.ImageNine\ImageNine.Web\bin\Google.GData.Photos.dll
+C:\Development\Cloudnine.Labs.ImageNine\ImageNine.Web\bin\Google.GData.Client.dll
+C:\Development\Cloudnine.Labs.ImageNine\ImageNine.Web\bin\Google.GData.Extensions.dll
+C:\Development\Cloudnine.Labs.ImageNine\ImageNine.Web\bin\ImageNine.pdb
+C:\Development\Cloudnine.Labs.ImageNine\ImageNine.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\Cloudnine.Labs.ImageNine\ImageNine.Web\obj\Debug\ImageNine.Web.dll
+C:\Development\Cloudnine.Labs.ImageNine\ImageNine.Web\obj\Debug\ImageNine.Web.pdb

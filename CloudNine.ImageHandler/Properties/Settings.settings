@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ImageNine.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AlbumUri" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://picasaweb.google.com/data/feed/api/user/{0}?kind=album</Value>
+    </Setting>
+    <Setting Name="AlbumPhotosUri" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://picasaweb.google.com/data/feed/api/user/{0}/albumid/{1}?kind=photo</Value>
+    </Setting>
+    <Setting Name="PhotoUri" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://picasaweb.google.com/data/feed/projection/user/{0}/albumid/{1}/photoid/{2}?kind=photo</Value>
+    </Setting>
+    <Setting Name="DeletePhotoUri" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://picasaweb.google.com/data/entry/api/user/{0}/albumid/{1}/photoid/{2}</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

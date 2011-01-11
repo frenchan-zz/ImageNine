@@ -1,0 +1,6 @@
+C:\Development\Cloudnine.Labs.ImageNine\CloudNine.ImageHandler\bin\Debug\ImageNine.dll.config
+C:\Development\Cloudnine.Labs.ImageNine\CloudNine.ImageHandler\bin\Debug\ImageNine.dll
+C:\Development\Cloudnine.Labs.ImageNine\CloudNine.ImageHandler\bin\Debug\ImageNine.pdb
+C:\Development\Cloudnine.Labs.ImageNine\CloudNine.ImageHandler\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\Cloudnine.Labs.ImageNine\CloudNine.ImageHandler\obj\Debug\ImageNine.dll
+C:\Development\Cloudnine.Labs.ImageNine\CloudNine.ImageHandler\obj\Debug\ImageNine.pdb
