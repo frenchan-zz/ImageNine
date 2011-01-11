@@ -15,40 +15,37 @@
       <File id="5086C0FA-F3A2-4858-A268-EC91380689F9/d:Development/f:ServiceLocator.cs" caret="0" fromTop="0" />
       <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/f:app.config" caret="2769" fromTop="23" />
       <File id="AF101BA1-25D0-415B-88CA-901F59C50C21/f:PicasaPhotoTest.cs" caret="471" fromTop="15" />
-      <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/d:DataAccess/f:Photo.cs" caret="0" fromTop="0" />
       <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/f:PicasaPhotoSize.cs" caret="1192" fromTop="29" />
-      <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/f:Access.cs" caret="0" fromTop="0" />
       <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/d:DataAccess/f:AuthService.cs" caret="292" fromTop="9" />
-      <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/d:Mapper/f:PicasaPhotoMapper.cs" caret="165" fromTop="6" />
-      <File id="d:Miscellaneous Files/f:PicasaPhoto.cs/l:C!?Development?Cloudnine.Labs.ImageNine?CloudNine.ImageHandler?PicasaPhoto.cs" caret="0" fromTop="0" />
-      <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/d:DataAccess/f:PicasaPhotoBankRepository.cs" caret="4444" fromTop="38" />
+      <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/f:Access.cs" caret="0" fromTop="0" />
       <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/d:Abstraction/f:IPicasaPhotoBankRepository.cs" caret="521" fromTop="10" />
+      <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/d:DataAccess/f:Photo.cs" caret="0" fromTop="0" />
+      <File id="5086C0FA-F3A2-4858-A268-EC91380689F9/d:Configuration/f:WebRegistry.cs" caret="527" fromTop="16" />
+      <File id="5086C0FA-F3A2-4858-A268-EC91380689F9/f:Default.aspx.cs" caret="550" fromTop="15" />
       <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/d:Abstraction/f:IPicasaPhotoBankService.cs" caret="582" fromTop="11" />
-      <File id="5086C0FA-F3A2-4858-A268-EC91380689F9/f:Default.aspx.cs" caret="395" fromTop="11" />
-      <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/f:PicasaPhotoBankService.cs" caret="1737" fromTop="27" />
-      <File id="5086C0FA-F3A2-4858-A268-EC91380689F9/d:Configuration/f:WebRegistry.cs" caret="509" fromTop="16" />
+      <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/d:Mapper/f:PicasaPhotoMapper.cs" caret="685" fromTop="19" />
+      <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/f:PicasaPhotoBankService.cs" caret="1535" fromTop="26" />
+      <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/d:DataAccess/f:PicasaPhotoBankRepository.cs" caret="4489" fromTop="47" />
+      <File id="d:Miscellaneous Files/f:PicasaPhoto.cs/l:C!?Development?Cloudnine.Labs.ImageNine?CloudNine.ImageHandler?PicasaPhoto.cs" caret="7017" fromTop="27" />
     </RecentFiles>
     <RecentEdits>
-      <File id="5086C0FA-F3A2-4858-A268-EC91380689F9/f:Global.asax.cs" caret="950" fromTop="41" />
-      <File id="5086C0FA-F3A2-4858-A268-EC91380689F9/f:Default.aspx.cs" caret="13" fromTop="0" />
       <File id="5086C0FA-F3A2-4858-A268-EC91380689F9/f:Default.aspx.cs" caret="527" fromTop="11" />
-      <File id="5086C0FA-F3A2-4858-A268-EC91380689F9/d:Configuration/f:WebRegistry.cs" caret="1035" fromTop="19" />
-      <File id="5086C0FA-F3A2-4858-A268-EC91380689F9/d:Configuration/f:WebRegistry.cs" caret="1035" fromTop="18" />
-      <File id="5086C0FA-F3A2-4858-A268-EC91380689F9/d:Configuration/f:WebRegistry.cs" caret="1036" fromTop="21" />
-      <File id="5086C0FA-F3A2-4858-A268-EC91380689F9/d:Configuration/f:WebRegistry.cs" caret="1049" fromTop="20" />
+      <File id="5086C0FA-F3A2-4858-A268-EC91380689F9/d:Configuration/f:WebRegistry.cs" caret="1053" fromTop="19" />
+      <File id="5086C0FA-F3A2-4858-A268-EC91380689F9/d:Configuration/f:WebRegistry.cs" caret="1053" fromTop="18" />
+      <File id="5086C0FA-F3A2-4858-A268-EC91380689F9/d:Configuration/f:WebRegistry.cs" caret="1054" fromTop="21" />
+      <File id="5086C0FA-F3A2-4858-A268-EC91380689F9/d:Configuration/f:WebRegistry.cs" caret="1067" fromTop="20" />
       <File id="5086C0FA-F3A2-4858-A268-EC91380689F9/d:Configuration/f:WebRegistry.cs" caret="0" fromTop="0" />
-      <File id="5086C0FA-F3A2-4858-A268-EC91380689F9/d:Configuration/f:WebRegistry.cs" caret="1160" fromTop="9" />
-      <File id="5086C0FA-F3A2-4858-A268-EC91380689F9/d:Configuration/f:WebRegistry.cs" caret="991" fromTop="18" />
-      <File id="5086C0FA-F3A2-4858-A268-EC91380689F9/d:Configuration/f:WebRegistry.cs" caret="1049" fromTop="19" />
+      <File id="5086C0FA-F3A2-4858-A268-EC91380689F9/d:Configuration/f:WebRegistry.cs" caret="1178" fromTop="9" />
+      <File id="5086C0FA-F3A2-4858-A268-EC91380689F9/d:Configuration/f:WebRegistry.cs" caret="1009" fromTop="18" />
+      <File id="5086C0FA-F3A2-4858-A268-EC91380689F9/d:Configuration/f:WebRegistry.cs" caret="1067" fromTop="19" />
       <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/d:DataAccess/f:PicasaPhotoBankRepository.cs" caret="3405" fromTop="35" />
       <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/d:DataAccess/f:PicasaPhotoBankRepository.cs" caret="3568" fromTop="38" />
       <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/d:DataAccess/f:AuthService.cs" caret="700" fromTop="35" />
       <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/d:DataAccess/f:AuthService.cs" caret="495" fromTop="33" />
       <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/d:DataAccess/f:AuthService.cs" caret="243" fromTop="8" />
       <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/d:DataAccess/f:AuthService.cs" caret="45" fromTop="1" />
-      <File id="5086C0FA-F3A2-4858-A268-EC91380689F9/d:Configuration/f:WebRegistry.cs" caret="992" fromTop="20" />
+      <File id="5086C0FA-F3A2-4858-A268-EC91380689F9/d:Configuration/f:WebRegistry.cs" caret="1010" fromTop="20" />
       <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/d:DataAccess/f:PicasaPhotoBankRepository.cs" caret="701" fromTop="18" />
-      <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/d:DataAccess/f:PicasaPhotoBankRepository.cs" caret="3497" fromTop="33" />
       <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/d:DataAccess/f:PicasaPhotoBankRepository.cs" caret="316" fromTop="10" />
       <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/d:DataAccess/f:PicasaPhotoBankRepository.cs" caret="4326" fromTop="35" />
       <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/d:DataAccess/f:PicasaPhotoBankRepository.cs" caret="4444" fromTop="38" />
@@ -58,7 +55,10 @@
       <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/f:PicasaPhotoBankService.cs" caret="2108" fromTop="28" />
       <File id="5086C0FA-F3A2-4858-A268-EC91380689F9/f:Default.aspx.cs" caret="433" fromTop="11" />
       <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/f:PicasaPhotoBankService.cs" caret="1862" fromTop="30" />
-      <File id="5086C0FA-F3A2-4858-A268-EC91380689F9/d:Configuration/f:WebRegistry.cs" caret="509" fromTop="16" />
+      <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/d:DataAccess/f:PicasaPhotoBankRepository.cs" caret="3593" fromTop="28" />
+      <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/d:DataAccess/f:PicasaPhotoBankRepository.cs" caret="110" fromTop="4" />
+      <File id="5086C0FA-F3A2-4858-A268-EC91380689F9/d:Configuration/f:WebRegistry.cs" caret="527" fromTop="16" />
+      <File id="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31/d:DataAccess/f:PicasaPhotoBankRepository.cs" caret="3769" fromTop="16" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -112,7 +112,7 @@
       <Item value="AlbumEntry" priority="0" />
       <Item value="albumSummery" priority="0" />
       <Item value="AlbumAccessor`0" priority="0" />
-      <Item value="albumAccessor" priority="2" />
+      <Item value="albumAccessor" priority="3" />
       <Item value="AlbumAccessor" priority="0" />
       <Item value="Access`0" priority="0" />
       <Item value="photosUri" priority="0" />
@@ -120,8 +120,8 @@
       <Item value="PicasaQuery`0" priority="1" />
       <Item value="userName" priority="4" />
       <Item value="AuthService`0" priority="1" />
-      <Item value="Google" priority="1" />
-      <Item value="GData" priority="1" />
+      <Item value="Google" priority="2" />
+      <Item value="GData" priority="2" />
       <Item value="Photos" priority="1" />
       <Item value="PicasaService`0" priority="1" />
       <Item value="picasaService" priority="1" />
@@ -150,6 +150,10 @@
       <Item value="postUri" priority="0" />
       <Item value="dfi" priority="0" />
       <Item value="file" priority="1" />
+      <Item value="Client" priority="0" />
+      <Item value="Picasa" priority="0" />
+      <Item value="Album`0" priority="0" />
+      <Item value="Abstraction" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:StructureMap.IContainer">
       <Item value="Configure`0" priority="0" />

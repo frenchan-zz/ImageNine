@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="CE58D79C-E9D9-42B7-8FEE-E77239BC8B31" ModuleId="ImageNine" />
+  <Module PersistentId="AF101BA1-25D0-415B-88CA-901F59C50C21" ModuleId="ImageNineTest" />
+  <Module PersistentId="5086C0FA-F3A2-4858-A268-EC91380689F9" ModuleId="ImageNine.Web" />
+</Modules>
