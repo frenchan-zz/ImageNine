@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using ImageNine.Abstraction;
 using ImageNine.DataAccess;
 using ImageNine.Mapper;
@@ -46,9 +45,10 @@ namespace ImageNine
             photoBankRepository.DeletePhoto(userName, albumId, photoId);
         }
 
-        public string CreateNewAlbum(string userName, string albumTitle, string albumSummary)
+        public Album CreateNewAlbum(string userName, string albumTitle, string albumSummary)
         {
-           return photoBankRepository.CreateNewAlbum(userName, albumTitle, albumSummary);
+            var album = photoBankRepository.CreateNewAlbum(userName, albumTitle, albumSummary);
+            return albumMapper.GetAlbum(album);
         }
 
         public void PostNewPhoto(string userName, string albumId, string file)

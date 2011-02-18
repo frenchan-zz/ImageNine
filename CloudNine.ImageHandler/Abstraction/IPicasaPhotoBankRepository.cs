@@ -8,7 +8,7 @@ namespace ImageNine.Abstraction
         SyndicationFeed GetPhotosFeed(string userName, string albumId);
         SyndicationItem GetPhoto(string userName, string albumId, string photoId);
         void DeletePhoto(string userName, string albumId, string photoId);
-        string CreateNewAlbum(string userName, string albumTitle, string albumSummary);
+        Google.Picasa.Album CreateNewAlbum(string userName, string albumTitle, string albumSummary);
         void PostNewPhoto(string userName, string albumId, string file);
     }
 }

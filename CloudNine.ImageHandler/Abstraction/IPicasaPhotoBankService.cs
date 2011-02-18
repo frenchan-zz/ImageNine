@@ -9,7 +9,7 @@ namespace ImageNine.Abstraction
         IList<Photo> GetPhotos(string userName, string albumId);
         Photo GetPhoto(string userName, string albumId, string photoId);
         void DeletePhoto(string userName, string albumId, string photoId);
-        string CreateNewAlbum(string userName, string albumTitle, string albumSummary);
+        Album CreateNewAlbum(string userName, string albumTitle, string albumSummary);
         void PostNewPhoto(string userName, string albumId, string file);
     }
 }

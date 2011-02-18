@@ -96,20 +96,20 @@ namespace ImageNine.DataAccess
         #region IPicasaPhotoBankRepository Members
 
 
-        public string CreateNewAlbum(string userName, string albumTitle, string albumSummary)
+        public Google.Picasa.Album CreateNewAlbum(string userName, string albumTitle, string albumSummary)
         {
-            var albumEntry = new AlbumEntry();
-            albumEntry.Title.Text = albumTitle;
-            albumEntry.Summary.Text = albumSummary;
-
-            var albumAccessor = new AlbumAccessor(albumEntry);
-            albumAccessor.Access = "public";
+            var album = new Google.Picasa.Album
+                            {
+                                Title = albumTitle, 
+                                Summary = albumSummary, 
+                                Access = "public"
+                            };
 
             var feedUri = new Uri(PicasaQuery.CreatePicasaUri(userName));
 
-            service.Service().Insert(feedUri, albumEntry);
+            service.Service().Insert(feedUri, album.PicasaEntry);
 
-            return albumAccessor.Id;
+            return album; 
         }
 
         public void PostNewPhoto(string userName, string albumId, string file)
@@ -119,9 +119,14 @@ namespace ImageNine.DataAccess
             var fileInfo = new FileInfo(file);
             var fileStream = fileInfo.OpenRead();
 
-            service.Service().Insert(postUri, fileStream, "image/" + fileInfo.Extension, file);
+            var entry =  service.Service().Insert(postUri, fileStream, "image/" + fileInfo.Extension, file) as PicasaEntry;
 
             fileStream.Close();
+
+            //Google.Picasa.Photo
+
+            //entry.Exif.
+
         }
 
         #endregion

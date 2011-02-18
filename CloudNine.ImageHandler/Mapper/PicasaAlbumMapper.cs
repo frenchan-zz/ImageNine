@@ -28,5 +28,17 @@ namespace ImageNine.Mapper
 
             return albumList;
         }
+
+        public Album GetAlbum(Google.Picasa.Album picasaAlbum)
+        {
+            var album = new Album()
+                            {
+                                Id = picasaAlbum.Id,
+                                Description = picasaAlbum.Summary,
+                                Title = picasaAlbum.Title
+                            };
+
+            return album;
+        }
     }
 }
