@@ -124,7 +124,7 @@ namespace ImageNine.DataAccess
             fileStream.Close();
 
             //Google.Picasa.Photo
-
+            // to make git detect changes
             //entry.Exif.
 
         }
