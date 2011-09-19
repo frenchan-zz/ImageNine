@@ -13,9 +13,9 @@ namespace ImageNine.Web.Configuration
                .Ctor<string>("picasaAppName")
                .Is("My Picasa App")
                .Ctor<string>("userName")
-               .Is("robertov82")
+               .Is("xxx")
                .Ctor<string>("password")
-               .Is("robevega");
+               .Is("xxx");
 
            For<IPicasaPhotoBankRepository>()
                .Use<PicasaPhotoBankRepository>()
